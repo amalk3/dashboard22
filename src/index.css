@@ -1,0 +1,66 @@
+@import '~antd/dist/antd.css';
+body {
+  margin: 0;
+  overflow: hidden;
+}
+.top {
+  background-color: #ff726565;
+width : 100%;
+  margin: 1%;
+  height:130px;
+  border-radius: 25px;
+}
+.bottom {
+   margin: 1%;
+  border-radius: 25px;
+  height: 80px;
+  width : 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+}
+.middle {
+   width : 100%;
+  margin-bottom: 3%;
+  margin-top: 2%;
+  margin: 1%;
+  border-radius: 25px;
+  height: 350px;
+ 
+}
+.middle-left {
+   width: 37%;
+  display: inline-block;
+  height: 100%;
+  float: left;
+  border-radius: 25px;
+  background-color: white;
+ 
+}
+.middle-right {
+   width: 61%;
+  display: inline-block;
+  height: 100%;
+  float: right;
+  border-radius: 25px;
+  background-color: white;
+ 
+}
+.bottom-Button {
+  margin-right: 5px;
+   border-radius: 15px;
+  width: 33.34%;
+  height: 80px;
+  margin-left: 5px;
+  border: none;
+}
+.bt1 {
+  background-color: blue;
+}
+.bt2 {
+  background-color: violet;
+}
+.bt3 {
+  background-color:  red;
+}
