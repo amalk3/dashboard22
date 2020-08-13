@@ -8,11 +8,11 @@ body {
 width : 100%;
   margin: 1%;
   height:130px;
-  border-radius: 25px;
+  border-radius: 24px;
 }
 .bottom {
    margin: 1%;
-  border-radius: 25px;
+  border-radius: 24px;
   height: 80px;
   width : 100%;
   display: flex;
@@ -25,7 +25,7 @@ width : 100%;
   margin-bottom: 3%;
   margin-top: 2%;
   margin: 1%;
-  border-radius: 25px;
+  border-radius: 24px;
   height: 350px;
  
 }
@@ -34,7 +34,7 @@ width : 100%;
   display: inline-block;
   height: 100%;
   float: left;
-  border-radius: 25px;
+  border-radius: 24px;
   background-color: white;
  
 }
@@ -43,13 +43,13 @@ width : 100%;
   display: inline-block;
   height: 100%;
   float: right;
-  border-radius: 25px;
+  border-radius: 24px;
   background-color: white;
  
 }
 .bottom-Button {
   margin-right: 5px;
-   border-radius: 15px;
+   border-radius: 14px;
   width: 33.34%;
   height: 80px;
   margin-left: 5px;
